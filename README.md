@@ -17,6 +17,9 @@
 
 🚀 Every line of code is a step toward growth and mastery. Let's connect, collaborate, and code for a brighter future!
 
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+
 ### 🧰 Languages and Tools
 
 
