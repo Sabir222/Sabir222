@@ -40,8 +40,10 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-<img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
 
+<p align="center">
+<img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+</p>
 
 
 
