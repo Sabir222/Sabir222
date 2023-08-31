@@ -6,38 +6,9 @@
 🚀 Every line of code is a step toward growth and mastery. Let's connect, collaborate, and code for a brighter future!
 
 🧰 Languages and Tools
-Java
 
-Spring
 
-TypeScript
-
-Angular
-
-Git
-
-Linux
-
-HTML
-
-CSS
-
-JavaScript
-
-React
-
-NodeJS
-
-Python
-
-C++
-
-GitHub
-
-Gradle
-
-Bash
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+Learning+new+Things;ALX+software+engineering;FullStack+developer" alt="Typing SVG" /></a>
 <!--
 **Sabir222/Sabir222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
