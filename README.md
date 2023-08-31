@@ -5,6 +5,39 @@
 
 🚀 Every line of code is a step toward growth and mastery. Let's connect, collaborate, and code for a brighter future!
 
+🧰 Languages and Tools
+Java
+
+Spring
+
+TypeScript
+
+Angular
+
+Git
+
+Linux
+
+HTML
+
+CSS
+
+JavaScript
+
+React
+
+NodeJS
+
+Python
+
+C++
+
+GitHub
+
+Gradle
+
+Bash
+
 <!--
 **Sabir222/Sabir222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
