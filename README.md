@@ -8,14 +8,7 @@
 </p>
 
 
-<p align="center">
 
-  <a href="https://twitter.com/sabirkoutabi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://portfolio-sabir222.vercel.app/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-</p>
 
 ### Hi there 👋
 👋  I'm a student at ALX Africa's Software Engineering Program, leveraging Helborton courses to fuel my coding journey. Passionate about software engineering, I'm currently immersing myself in the world Web developement.
