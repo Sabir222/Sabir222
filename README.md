@@ -43,6 +43,11 @@
 
 <p align="center">
 <img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+  <img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+  <img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+  <img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+  <img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+  <img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
 </p>
 
 
