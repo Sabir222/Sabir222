@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"  target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+Learning+new+Things;ALX+software+engineering;FullStack+developer" alt="Typing SVG" /></a>
 <a href="https://twitter.com/sabirkoutabi"  target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://portfolio-sabir222.vercel.app/  target="_blank"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://portfolio-sabir222.vercel.app/" target="_blank"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
