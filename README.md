@@ -41,7 +41,7 @@
 <br />
 
 
-<p align="center">
+<p align="left">
   <img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
   <img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media3.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" />
   <img align="left" alt="Git" width="200px" style="padding-right:10px;" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
