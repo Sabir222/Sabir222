@@ -47,7 +47,4 @@
   <img align="left" alt="Git" width="200px"  src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
   <img align="left" alt="Git" width="200px"  src="https://media4.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" />
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabir222&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sabir" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabir222&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sabir" /></p>
