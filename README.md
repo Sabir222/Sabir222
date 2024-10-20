@@ -15,7 +15,7 @@
 
 💻 For me, coding is a blend of creativity and problem-solving, turning concepts into functional reality. Outside of coding, you'll find me immersed in gaming and football – proud supporter of FC Barcelona!
 
-🚀 Every line of code is a step toward growth and mastery. Let's connect, collaborate, and code for a brighter future!
+🚀 Every line of code is a step toward growth and mastery. Let's connect, collaborate, and code .
 
 
 ## Use To Code
