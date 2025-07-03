@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://portfolio-sabir222.vercel.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF75D&repeat=false&width=435&lines=Sabir+KOUTABI+%2C+Click+for+Portfolio" alt="Typing SVG" /></a>
-<a href="https://portfolio-sabir222.vercel.app/"  target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+Learning+new+Things;ALX+software+engineering;FullStack+developer" alt="Typing SVG" /></a>
+  <a href="https://sabirkoutabi.me/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF75D&repeat=false&width=435&lines=Sabir+KOUTABI+%2C+Click+for+Portfolio" alt="Typing SVG" /></a>
+<a href="https://sabirkoutabi.me"  target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+Learning+new+Things;ALX+software+engineering;FullStack+developer" alt="Typing SVG" /></a>
 <a href="https://twitter.com/sabirkoutabi"  target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://portfolio-sabir222.vercel.app/" target="_blank"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
